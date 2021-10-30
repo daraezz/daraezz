@@ -1,4 +1,4 @@
-# *Welcome to my profile*
+# Welcome to my profile
 ## *About me*
 **My alias is Daraez I am 18 years old and right now I am doing a higher degree in Multiplatform Application Development also I love video games**
 
