@@ -8,6 +8,10 @@
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 </br>
 
+## 🎲 *Stats*:
+
+[![STATS](https://github-readme-stats.vercel.app/api/top-langs/?username=daraezz&layout=compact)]()
+
 ## 🔥 *Working in*...
 [![JAVASCRIPT](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![PYTHON](https://img.shields.io/badge/python-00ba89?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
