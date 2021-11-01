@@ -14,5 +14,5 @@
 </br>
 
 ## 🎲 *Stats*:
-[![STATS](https://github-readme-stats.vercel.app/api/top-langs/?username=daraezz&layout=compact)]()
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=daraezz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
