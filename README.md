@@ -1,6 +1,6 @@
 <hr>
 <h2 align="center">Welcome to my profile</h2>
-<h3>My alias is Daraez I am 18 years old and right now I am doing a higher degree in Multiplatform Application Development</h3>
+<p>My alias is Daraez I am 18 years old and right now I am doing a higher degree in Multiplatform Application Development</p>
 <hr>
 ## 🔰 Skills:
 [![JAVA](https://img.shields.io/badge/Java-5564eb?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
