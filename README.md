@@ -1,5 +1,5 @@
-# Welcome to my profile
-## *About me*
+<h3 align="center">Welcom to my profile</h3>
+## About me
 **My alias is Daraez I am 18 years old and right now I am doing a higher degree in Multiplatform Application Development**
 
 ## 🔰 Skills:
@@ -15,4 +15,3 @@
 
 ## 🎲 Stats:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daraezz&show_icons=true&locale=en&layout=compact" alt="daraezz" /></p>
-
