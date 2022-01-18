@@ -1,5 +1,6 @@
 <hr>
 <h2 align="center">Welcome to my profile</h2>
+<hr>
 <p>My alias is Daraez I am 18 years old and right now I am doing a higher degree in Multiplatform Application Development</p>
 <hr>
 ## 🔰 Skills:
