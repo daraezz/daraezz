@@ -2,6 +2,8 @@
 ## About me
 **My alias is Daraez I am 18 years old and right now I am doing a higher degree in Multiplatform Application Development**
 
+<hr width = "300vw">
+
 ## 🔰 Skills:
 [![JAVA](https://img.shields.io/badge/Java-5564eb?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
