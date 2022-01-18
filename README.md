@@ -1,4 +1,4 @@
-<h3 align="center">Welcom to my profile</h3>
+<h2 align="center">Welcome to my profile</h2>
 ## About me
 **My alias is Daraez I am 18 years old and right now I am doing a higher degree in Multiplatform Application Development**
 
